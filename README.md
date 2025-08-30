@@ -26,7 +26,7 @@ German Traffic Sign Recognition Benchmark (GTSRB) and German Traffic Sign Detect
 
 \- Signs are categorized into 43 classes (e.g., speed limits, no entry, turn directions, children crossing, etc.).  
 
-\- Images vary in size and background, including cropped traffic signs and full-scene images with bounding boxes.
+\- Images vary in size and background, including cropped traffic signs and full-scene images.
 
 &nbsp; 
 
