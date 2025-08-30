@@ -1,0 +1,51 @@
+train: data/images/train
+val: data/images/val
+nc: 43
+names:
+  0: Speed limit (20km/h)
+  1: Speed limit (30km/h)
+  2: Speed limit (50km/h)
+  3: Speed limit (60km/h)
+  4: Speed limit (70km/h)
+  5: Speed limit (80km/h)
+  6: End of speed limit (80km/h)
+  7: Speed limit (100km/h)
+  8: Speed limit (120km/h)
+  9: No overtaking
+  10: No overtaking by vehicles over 3.5 t 
+  11: Intersection ahead -right-of-way only for this intersection
+  12: Priority road -right-of-way on all following intersections
+  13: Yield
+  14: Stop
+  15: No vehicles of any kind permitted
+  16: No vehicles over 3.5 t permitted
+  17: No entry
+  18: Other dangers
+  19: Curve (left)
+  20: Curve (right)
+  21: Double curve (first left)
+  22: Uneven road
+  23: Slippery road
+  24: Road narrows (right)
+  25: Roadworks
+  26: Traffic signals ahead
+  27: Pedestrian crossing
+  28: Children crossing
+  29: Bicycles crossing 
+  30: Ice or snow
+  31: Wild animals crossing
+  32: End of all restrictions
+  33: Turn right ahead
+  34: Turn left ahead
+  35: Go straight ahead
+  36: Go straight or turn right ahead
+  37: Go straight or turn left ahead
+  38: Pass on the right
+  39: Pass on the left
+  40: Roundabout
+  41: End of no overtaking
+  42: End of no overtaking by vehicles over 3.5 t 
+
+
+
+
